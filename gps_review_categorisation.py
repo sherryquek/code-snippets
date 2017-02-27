@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# Read the full post here: https://yuzukixx.github.io/2017/02/27/can-text-analytics-help-us-categorise-reviews/ .
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 import numpy as np
